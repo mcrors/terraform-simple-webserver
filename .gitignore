@@ -2,8 +2,5 @@
 *.tfstate
 *.tfstate.backup
 
-<<<<<<< HEAD
 .env
-=======
 .vscode
->>>>>>> f11db74fbea44ed7b57d041f297336a7db7f631d
